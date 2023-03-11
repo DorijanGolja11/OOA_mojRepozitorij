@@ -1,0 +1,15 @@
+{
+ "location" : "Rijeka",
+ "date" : "18.11.2022",
+ "forecasts" : [
+ {
+ "time" : "9:00",
+ "forecast" : "sunny",
+ "temp" : 10,
+ "wind" : {
+ "speed" : "1 m/s",
+ "description" : "Light air from north-northeast "
+ }
+ }
+ ]
+}
